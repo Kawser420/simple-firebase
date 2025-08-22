@@ -11,7 +11,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "firebase": "^10.5.2",
+    "firebase": "^12.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.17.0"
@@ -31,5 +31,18 @@
     "typescript": "^5.2.2",
     "vite": "^4.4.5",
     "vite-plugin-eslint": "^1.8.1"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kawser420/simple-firebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kawser420/simple-firebase/issues"
+  },
+  "homepage": "https://github.com/Kawser420/simple-firebase#readme"
 }
